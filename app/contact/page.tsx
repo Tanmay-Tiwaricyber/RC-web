@@ -80,7 +80,7 @@ export default function ContactPage() {
   const contactMethods = [
     {
       command: "connect --via whatsapp",
-      value: "+91 6306256015",
+      value: "",
       status: "available",
       icon: <MessageSquare className="w-5 h-5" />,
       color: "text-green-400",
